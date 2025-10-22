@@ -31,7 +31,7 @@ jobs:
             NEW_HTML="${NEW_HTML}<img width=\"20%\" src=\"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${POKEMON_NUMBER}.png\" /> "
           done
           # Reemplazar solo la PRIMERA coincidencia de la etiqueta <img width="20%" src="..."> en README.md
-          sed -i "0,/<img width=\"20%\" src=\"[^\"]*\"/s|<img width=\"20%\" src=\"[^\"]*\"|${NEW_HTML}|" README.md
+          sed -i "0,/<img width=\"20%\" src=\"[^\"]*\"/s|<img width=\"30%\" src=\"[^\"]*\"|${NEW_HTML}|" README.md
 
       - name: Commit changes
         env:
