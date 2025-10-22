@@ -48,7 +48,7 @@
 <h2 align="left"> ¡Equipo Pokemon de HOY! </h2>
 
 <div>
-  <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png" style="max-width: 100%;">
+  <img width="20%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/684.png" /> <img width="20%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/813.png" /> <img width="20%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/590.png" /> <img width="20%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png" /> <img width="20%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/728.png" /> <img width="20%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/508.png" />  style="max-width: 100%;">
 </div>
 
 ###
