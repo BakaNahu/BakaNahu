@@ -1,0 +1,39 @@
+name: Update README with new Pokémon
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Esto se ejecuta todos los días a la medianoche UTC
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Pull latest changes
+        run: git pull origin main
+      
+      - name: Update Pokémon Image URL
+        run: |
+          # Generar un número aleatorio entre 1 y 1025
+          POKEMON_NUMBER=$(shuf -i 1-1025 -n 1)
+          # Generar el nuevo HTML solo para la imagen del Pokémon
+          NEW_HTML="<img width=\"20%\" src=\"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${POKEMON_NUMBER}.png\""
+          # Reemplazar solo la URL de la imagen del Pokémon en el README.md
+          sed -i "s|<img width=\"20%\" src=\"[^\"]*\"|${NEW_HTML}|g" README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "feat(image):🌈 New pokemon"
+            git push
+          fi
