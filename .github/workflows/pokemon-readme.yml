@@ -21,17 +21,46 @@ jobs:
 
       - name: Pull latest changes
         run: git pull origin main
-      
+
       - name: Update Pokémon Team Image URLs
         run: |
-          # Generar 6 números aleatorios entre 1 y 1025 y construir 6 etiquetas img
-          NEW_HTML=""
-          for i in $(seq 1 6); do
-            POKEMON_NUMBER=$(shuf -i 1-1025 -n 1)
-            NEW_HTML="${NEW_HTML}<img width=\"30%\" src=\"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${POKEMON_NUMBER}.png\" /> "
-          done
-          # Reemplazar solo la PRIMERA coincidencia de la etiqueta <img width="30%" src="..."> en README.md
-          sed -i "0,/<img width=\"30%\" src=\"[^\"]*\"/s|<img width=\"30%\" src=\"[^\"]*\"|${NEW_HTML}|" README.md
+          python - <<'PY'
+          import random, re
+          fn = "README.md"
+          with open(fn, "r", encoding="utf-8") as f:
+              s = f.read()
+
+          def gen_imgs():
+              return " ".join(
+                  f'<img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/{random.randint(1,1025)}.png" />'
+                  for _ in range(6)
+              )
+
+          start = "<!-- POKEMON_TEAM_START -->"
+          end = "<!-- POKEMON_TEAM_END -->"
+
+          if start in s and end in s:
+              imgs = gen_imgs()
+              new_block = start + "\n" + imgs + "\n" + end
+              s = re.sub(re.escape(start) + r".*?" + re.escape(end), new_block, s, flags=re.S)
+              msg = "Replaced team between markers"
+          else:
+              # Fallback: replace the FIRST <img ... width="30%" ...> occurrence
+              imgs = gen_imgs()
+              new_s, n = re.subn(r'<img[^>]*width="30%"[^>]*>', imgs, s, count=1)
+              if n:
+                  s = new_s
+                  msg = "Replaced first <img width=\"30%\" ...> as fallback"
+              else:
+                  # If nothing to replace, append markers + team at end
+                  new_block = "\n" + start + "\n" + imgs + "\n" + end + "\n"
+                  s = s + new_block
+                  msg = "No marker or image found: appended team at EOF"
+
+          with open(fn, "w", encoding="utf-8") as f:
+              f.write(s)
+          print(msg)
+          PY
 
       - name: Commit changes
         env:
