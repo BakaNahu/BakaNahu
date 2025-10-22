@@ -48,9 +48,9 @@
 <h2 align="left"> ¡Equipo Pokemon de HOY! </h2>
 
 <div>
-  <!-- POKEMON_TEAM_START --> 
-    <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" /> 
-  <!-- POKEMON_TEAM_END -->
+  <!-- POKEMON_TEAM_START -->
+<img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/582.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/594.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/760.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png" />
+<!-- POKEMON_TEAM_END -->
 </div>
 
 ###
