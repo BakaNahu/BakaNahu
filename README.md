@@ -45,9 +45,14 @@
   <img width="12" />
 </div>
 
-<h2 align="left"> ¡Pokemon de HOY! </h2>
+<h2 align="left"> ¡Equipo Pokemon de HOY! </h2>
 
 <div>
+  <img width="20%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png" style="max-width: 100%;">
+  <img width="20%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png" style="max-width: 100%;">
+  <img width="20%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png" style="max-width: 100%;">
+  <img width="20%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png" style="max-width: 100%;">
+  <img width="20%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png" style="max-width: 100%;">
   <img width="20%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png" style="max-width: 100%;">
 </div>
 
