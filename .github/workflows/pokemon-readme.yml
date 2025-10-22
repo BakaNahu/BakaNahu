@@ -7,12 +7,17 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Pull latest changes
         run: git pull origin main
@@ -27,6 +32,8 @@ jobs:
           sed -i "s|<img width=\"20%\" src=\"[^\"]*\"|${NEW_HTML}|g" README.md
 
       - name: Commit changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
@@ -35,5 +42,5 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "feat(image):🌈 New pokemon"
-            git push
+            git push origin HEAD:${{ github.ref_name }}
           fi
