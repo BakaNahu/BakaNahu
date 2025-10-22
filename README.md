@@ -5,7 +5,7 @@
 <p align="left">Mi nombre es Nahuel Castro y soy un Programador Web de Argentina 🧉 </p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBmg1WK8obnbGRCzE8P-Tsnb2u314gYAH0w&s" height="90"/>
 <img width="70" />
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBmg1WK8obnbGRCzE8P-Tsnb2u314gYAH0w&s](https://media.tenor.com/D1eCb9NKyGIAAAAM/messi-que-miras-bobo.gif)" height="90"/>
+<img src="https://media.tenor.com/D1eCb9NKyGIAAAAM/messi-que-miras-bobo.gif" height="90"/>
 <img width="70" />
 <img src="https://i.pinimg.com/originals/6b/eb/49/6beb49fb592ffbef2a0cefc975dafe62.gif" height="90"/>
 <img width="70" />
