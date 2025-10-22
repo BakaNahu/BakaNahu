@@ -4,9 +4,9 @@
 
 <p align="left">Mi nombre es Nahuel Castro y soy un Programador Web de Argentina 🧉 </p>
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBmg1WK8obnbGRCzE8P-Tsnb2u314gYAH0w&s" height="90"/> 
-<img src="https://media.tenor.com/D1eCb9NKyGIAAAAM/messi-que-miras-bobo.gif" height="90"/>
-<img src="https://media.tenor.com/M1-xsb7947oAAAAM/buen-d%C3%ADa-buen-d%C3%ADa-hermosa-ma%C3%B1ana-verdad.gif" height="90"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBmg1WK8obnbGRCzE8P-Tsnb2u314gYAH0w&s" height="90" margin-left="30px" margin-right="30px"/> 
+<img src="https://media.tenor.com/D1eCb9NKyGIAAAAM/messi-que-miras-bobo.gif" height="90" margin-left="30px" margin-right="30px"/>
+<img src="https://media.tenor.com/M1-xsb7947oAAAAM/buen-d%C3%ADa-buen-d%C3%ADa-hermosa-ma%C3%B1ana-verdad.gif" height="90" margin-left="30px" margin-right="30px"/>
 <img width="70" />
 </div>
 
