@@ -49,11 +49,6 @@
 
 <div>
   <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png" style="max-width: 100%;">
-  <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png" style="max-width: 100%;">
-  <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png" style="max-width: 100%;">
-  <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png" style="max-width: 100%;">
-  <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png" style="max-width: 100%;">
-  <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png" style="max-width: 100%;">
 </div>
 
 ###
