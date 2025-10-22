@@ -28,9 +28,9 @@ jobs:
           NEW_HTML=""
           for i in $(seq 1 6); do
             POKEMON_NUMBER=$(shuf -i 1-1025 -n 1)
-            NEW_HTML="${NEW_HTML}<img width=\"20%\" src=\"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${POKEMON_NUMBER}.png\" /> "
+            NEW_HTML="${NEW_HTML}<img width=\"30%\" src=\"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${POKEMON_NUMBER}.png\" /> "
           done
-          # Reemplazar solo la PRIMERA coincidencia de la etiqueta <img width="20%" src="..."> en README.md
+          # Reemplazar solo la PRIMERA coincidencia de la etiqueta <img width="30%" src="..."> en README.md
           sed -i "0,/<img width=\"30%\" src=\"[^\"]*\"/s|<img width=\"30%\" src=\"[^\"]*\"|${NEW_HTML}|" README.md
 
       - name: Commit changes
