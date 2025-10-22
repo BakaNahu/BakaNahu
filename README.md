@@ -3,8 +3,8 @@
 ###
 
 <p align="left">Mi nombre es Nahuel Castro y soy un Programador Web de Argentina 🧉 </p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBmg1WK8obnbGRCzE8P-Tsnb2u314gYAH0w&s" height="40"/>
-<img width="12" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBmg1WK8obnbGRCzE8P-Tsnb2u314gYAH0w&s" height="30"/>
+<img width="50" />
 
 
 ###
