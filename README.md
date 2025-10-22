@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Nahuel Castro y soy un Programador Web de Argentina 🇦🇷 🧉 </p>
+<p align="left">Mi nombre es Nahuel Castro y soy un Programador Web de Argentina 🧉 </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Aprendiendo programación desde 2019 <br>📚 Ahora estoy cursando una Tecnicatura en Universitaria en Programación En CUDI-UTN Avellaneda <br>🎯 Mi objetivo principal es Capacitarme en todo el ambito IT y algun dia poder trabajar de lo que me gusta! <br>🎲 Dato Curioso: Soy superfan de Spiderman 🕷️</p>
 
 ###
 
