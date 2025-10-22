@@ -1,4 +1,4 @@
-name: Update README with new Pokémon
+name: Update README with new Pokémon team
 
 on:
   schedule:
@@ -22,14 +22,16 @@ jobs:
       - name: Pull latest changes
         run: git pull origin main
       
-      - name: Update Pokémon Image URL
+      - name: Update Pokémon Team Image URLs
         run: |
-          # Generar un número aleatorio entre 1 y 1025
-          POKEMON_NUMBER=$(shuf -i 1-1025 -n 1)
-          # Generar el nuevo HTML solo para la imagen del Pokémon
-          NEW_HTML="<img width=\"20%\" src=\"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${POKEMON_NUMBER}.png\""
-          # Reemplazar solo la URL de la imagen del Pokémon en el README.md
-          sed -i "s|<img width=\"20%\" src=\"[^\"]*\"|${NEW_HTML}|g" README.md
+          # Generar 6 números aleatorios entre 1 y 1025 y construir 6 etiquetas img
+          NEW_HTML=""
+          for i in $(seq 1 6); do
+            POKEMON_NUMBER=$(shuf -i 1-1025 -n 1)
+            NEW_HTML="${NEW_HTML}<img width=\"20%\" src=\"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${POKEMON_NUMBER}.png\" /> "
+          done
+          # Reemplazar solo la PRIMERA coincidencia de la etiqueta <img width="20%" src="..."> en README.md
+          sed -i "0,/<img width=\"20%\" src=\"[^\"]*\"/s|<img width=\"20%\" src=\"[^\"]*\"|${NEW_HTML}|" README.md
 
       - name: Commit changes
         env:
@@ -41,6 +43,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "feat(image):🌈 New pokemon"
+            git commit -m "feat(image):🌈 New pokemon team"
             git push origin HEAD:${{ github.ref_name }}
           fi
