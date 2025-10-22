@@ -48,7 +48,9 @@
 <h2 align="left"> ¡Equipo Pokemon de HOY! </h2>
 
 <div>
-  <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/537.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666.png" />  /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/651.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png" />
+  <!-- POKEMON_TEAM_START --> 
+    <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" /> 
+  <!-- POKEMON_TEAM_END -->
 </div>
 
 ###
