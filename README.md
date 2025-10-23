@@ -49,7 +49,7 @@
 
 <div>
   <!-- POKEMON_TEAM_START -->
-<img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/692.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/632.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/882.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/416.png" />
+<img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/783.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1006.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/609.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/665.png" /> <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/883.png" />
 <!-- POKEMON_TEAM_END -->
 </div>
 
