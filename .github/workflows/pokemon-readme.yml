@@ -22,44 +22,82 @@ jobs:
       - name: Pull latest changes
         run: git pull origin main
 
-      - name: Update Pokémon Team Image URLs
+      - name: Update Pokémon Team (images + names) using jsDelivr CDN
         run: |
-          python - <<'PY'
-          import random, re
-          fn = "README.md"
-          with open(fn, "r", encoding="utf-8") as f:
-              s = f.read()
+          python3 - <<'PY'
+          """
+          Genera un equipo de 6 pokémon aleatorios con su imagen y nombre.
+          Reemplaza el bloque entre:
+            <!-- POKEMON_TEAM_START -->
+            ...
+            <!-- POKEMON_TEAM_END -->
+          Si no existe, hace fallback reemplazando la primera <img width="30%">,
+          y si tampoco existe, anexa el bloque al final del README.
+          Usa jsDelivr para servir las imágenes (mejor cache, menos 429).
+          """
+          import random, re, json, urllib.request, urllib.error, time
 
-          def gen_imgs():
-              return " ".join(
-                  f'<img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/{random.randint(1,1025)}.png" />'
-                  for _ in range(6)
-              )
+          README = "README.md"
+          POKEAPI_URL = "https://pokeapi.co/api/v2/pokemon/{}"
+          # Cambiado a jsDelivr para evitar límites frecuentes en raw.githubusercontent.com
+          SPRITE_URL = "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/{}.png"
 
-          start = "<!-- POKEMON_TEAM_START -->"
-          end = "<!-- POKEMON_TEAM_END -->"
+          def fetch_name(pokemon_id, timeout=10):
+              try:
+                  req = urllib.request.Request(POKEAPI_URL.format(pokemon_id), headers={"User-Agent": "github-actions-pokemon-bot/1.0"})
+                  with urllib.request.urlopen(req, timeout=timeout) as resp:
+                      data = json.load(resp)
+                      name = data.get("name", "")
+                      return name.capitalize() if name else f"#{pokemon_id}"
+              except Exception:
+                  return f"#{pokemon_id}"
 
-          if start in s and end in s:
-              imgs = gen_imgs()
-              new_block = start + "\n" + imgs + "\n" + end
-              s = re.sub(re.escape(start) + r".*?" + re.escape(end), new_block, s, flags=re.S)
-              msg = "Replaced team between markers"
+          def gen_team_html(ids, img_width="80px"):
+              parts = []
+              for pid in ids:
+                  name = fetch_name(pid)
+                  img = SPRITE_URL.format(pid)
+                  part = (
+                      f'<figure style="display:inline-block; margin:6px; text-align:center;">'
+                      f'<img src="{img}" style="width:{img_width}; display:block; margin:0 auto;" />'
+                      f'<figcaption style="font-size:0.8rem; margin-top:4px;">{name}</figcaption>'
+                      f'</figure>'
+                  )
+                  parts.append(part)
+                  time.sleep(0.1)  # pequeña pausa para no sobrecargar pokeapi si hay muchos requests
+              return " ".join(parts)
+
+          with open(README, "r", encoding="utf-8") as f:
+              text = f.read()
+
+          # Generar 6 IDs únicos entre 1 y 1025
+          ids = random.sample(range(1, 1026), 6)
+          team_html = gen_team_html(ids)
+
+          start_marker = "<!-- POKEMON_TEAM_START -->"
+          end_marker = "<!-- POKEMON_TEAM_END -->"
+
+          if start_marker in text and end_marker in text:
+              new_block = f"{start_marker}\n{team_html}\n{end_marker}"
+              text = re.sub(re.escape(start_marker) + r".*?" + re.escape(end_marker), new_block, text, flags=re.S)
+              action = "replaced between markers"
           else:
-              # Fallback: replace the FIRST <img ... width="30%" ...> occurrence
-              imgs = gen_imgs()
-              new_s, n = re.subn(r'<img[^>]*width="30%"[^>]*>', imgs, s, count=1)
+              # Fallback: reemplazar la PRIMERA etiqueta <img ... width="30%" ...>
+              new_s, n = re.subn(r'<img[^>]*width="30%"[^>]*>', team_html, text, count=1)
               if n:
-                  s = new_s
-                  msg = "Replaced first <img width=\"30%\" ...> as fallback"
+                  text = new_s
+                  action = "replaced first <img width=\"30%\"> as fallback"
               else:
-                  # If nothing to replace, append markers + team at end
-                  new_block = "\n" + start + "\n" + imgs + "\n" + end + "\n"
-                  s = s + new_block
-                  msg = "No marker or image found: appended team at EOF"
+                  # Si tampoco se encontró nada, anexar al final con marcadores
+                  new_block = f"\n{start_marker}\n{team_html}\n{end_marker}\n"
+                  text = text + new_block
+                  action = "appended team at EOF"
 
-          with open(fn, "w", encoding="utf-8") as f:
-              f.write(s)
-          print(msg)
+          with open(README, "w", encoding="utf-8") as f:
+              f.write(text)
+
+          print("Done:", action)
+          print("Team IDs:", ids)
           PY
 
       - name: Commit changes
@@ -71,6 +109,10 @@ jobs:
           git add README.md
           if git diff --staged --quiet; then
             echo "No changes to commit."
+          else
+            git commit -m "feat(image):🌈 New pokemon team (with names, via jsDelivr)"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
           else
             git commit -m "feat(image):🌈 New pokemon team"
             git push origin HEAD:${{ github.ref_name }}
