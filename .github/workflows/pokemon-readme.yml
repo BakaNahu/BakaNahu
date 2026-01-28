@@ -113,7 +113,3 @@ jobs:
             git commit -m "feat(image):🌈 New pokemon team (with names, via jsDelivr)"
             git push origin HEAD:${{ github.ref_name }}
           fi
-          else
-            git commit -m "feat(image):🌈 New pokemon team"
-            git push origin HEAD:${{ github.ref_name }}
-          fi
