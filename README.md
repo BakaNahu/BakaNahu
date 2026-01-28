@@ -1,56 +1,49 @@
-<h1 align="left">Hola! 👋 </h1>
-
-###
-
-<p align="left">Mi nombre es Nahuel Castro y soy un Programador Web de Argentina 🧉 </p>
-<div align="left">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBmg1WK8obnbGRCzE8P-Tsnb2u314gYAH0w&s" height="90"/> 
-<img src="https://media.tenor.com/D1eCb9NKyGIAAAAM/messi-que-miras-bobo.gif" height="90"/>
-<img src="https://media.tenor.com/M1-xsb7947oAAAAM/buen-d%C3%ADa-buen-d%C3%ADa-hermosa-ma%C3%B1ana-verdad.gif" height="90"/>
-<img width="70" margin-left="90" margin-right="90" />
-</div>
-
-
-###
-
-<h2 align="left">Sobre Mi!</h2>
-
-###
-
-<p align="left">✨ Aprendiendo programación desde 2019 <br>📚 Ahora estoy cursando una Tecnicatura en Universitaria en Programación En CUDI-UTN Avellaneda <br>🎯 Mi objetivo principal es Capacitarme en todo el ambito IT y algun dia poder trabajar de lo que me gusta! <br>🎲 Dato Curioso: Soy superfan de Spiderman 🕷️</p>
-
-###
-
-<h2 align="left">Codeo actualmente con: </h2>
-
-###
-
-<div align="left">
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6eW55b3E2Z2V2eW55b3E2Z2V2eW55b3E2Z2V2eW55b3E2Z2V2/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" height="auto" />
+  <h1>¡Hola, soy Nahuel Castro! 👋</h1>
+  <h3>Programador Web | 🇦🇷 Argentina</h3>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" alt="Python"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML 5"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS 3"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="C"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
-  <img width="12" />
+  <a href="https://github.com/BakaNahu">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/TU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
-<h2 align="left"> ¡Equipo Pokemon de HOY! </h2>
+<br />
 
-<div>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h2>⚡ Sobre mí</h2>
+      <ul>
+        <li>🎓 <strong>Estudios:</strong> Cursando Tecnicatura Universitaria en Programación (CUDI-UTN Avellaneda).</li>
+        <li>💻 <strong>Trayectoria:</strong> Aprendiendo y codeando desde 2019.</li>
+        <li>🎯 <strong>Objetivo:</strong> Convertirme en un experto en el mundo IT.</li>
+        <li>🕷️ <strong>Dato random:</strong> Fanático total de <strong>Spider-Man</strong>.</li>
+        <li>🧉 <strong>Status:</strong> Mate en mano, código en pantalla.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.tenor.com/M1-xsb7947oAAAAM/buen-d%C3%ADa-buen-d%C3%ADa-hermosa-ma%C3%B1ana-verdad.gif" width="100%" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">🛠️ Tecnologías y Herramientas</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,c,cpp,cs&theme=dark" />
+</div>
+
+<br />
+
+<h2 align="center">🏆 Mi Equipo Pokémon de Hoy</h2>
+<p align="center">Generado automáticamente cada día a la medianoche</p>
+
+<div align="center">
   <!-- POKEMON_TEAM_START -->
-<figure style="display:inline-block; margin:6px; text-align:center;"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/973.png" style="width:80px; display:block; margin:0 auto;" /><figcaption style="font-size:0.8rem; margin-top:4px;">Flamigo</figcaption></figure> <figure style="display:inline-block; margin:6px; text-align:center;"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/366.png" style="width:80px; display:block; margin:0 auto;" /><figcaption style="font-size:0.8rem; margin-top:4px;">Clamperl</figcaption></figure> <figure style="display:inline-block; margin:6px; text-align:center;"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/616.png" style="width:80px; display:block; margin:0 auto;" /><figcaption style="font-size:0.8rem; margin-top:4px;">Shelmet</figcaption></figure> <figure style="display:inline-block; margin:6px; text-align:center;"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/268.png" style="width:80px; display:block; margin:0 auto;" /><figcaption style="font-size:0.8rem; margin-top:4px;">Cascoon</figcaption></figure> <figure style="display:inline-block; margin:6px; text-align:center;"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/1004.png" style="width:80px; display:block; margin:0 auto;" /><figcaption style="font-size:0.8rem; margin-top:4px;">Chi-yu</figcaption></figure> <figure style="display:inline-block; margin:6px; text-align:center;"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/933.png" style="width:80px; display:block; margin:0 auto;" /><figcaption style="font-size:0.8rem; margin-top:4px;">Naclstack</figcaption></figure>
+<figure style="display:inline-block; margin:6px; text-align:center;"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/544.png" style="width:80px; display:block; margin:0 auto;" /><figcaption style="font-size:0.8rem; margin-top:4px;">Whirlipede</figcaption></figure> <figure style="display:inline-block; margin:6px; text-align:center;"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/410.png" style="width:80px; display:block; margin:0 auto;" /><figcaption style="font-size:0.8rem; margin-top:4px;">Shieldon</figcaption></figure> <figure style="display:inline-block; margin:6px; text-align:center;"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/258.png" style="width:80px; display:block; margin:0 auto;" /><figcaption style="font-size:0.8rem; margin-top:4px;">Mudkip</figcaption></figure> <figure style="display:inline-block; margin:6px; text-align:center;"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/236.png" style="width:80px; display:block; margin:0 auto;" /><figcaption style="font-size:0.8rem; margin-top:4px;">Tyrogue</figcaption></figure> <figure style="display:inline-block; margin:6px; text-align:center;"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/963.png" style="width:80px; display:block; margin:0 auto;" /><figcaption style="font-size:0.8rem; margin-top:4px;">Finizen</figcaption></figure> <figure style="display:inline-block; margin:6px; text-align:center;"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/874.png" style="width:80px; display:block; margin:0 auto;" /><figcaption style="font-size:0.8rem; margin-top:4px;">Stonjourner</figcaption></figure>
 <!-- POKEMON_TEAM_END -->
 </div>
-
-###
