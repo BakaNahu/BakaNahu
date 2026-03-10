@@ -34,7 +34,7 @@
 <h2 align="center">🛠️ Tecnologías y Herramientas</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,c,cpp,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,php,c,cpp,cs&theme=dark" />
 </div>
 
 <br />
