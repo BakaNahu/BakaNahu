@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6eW55b3E2Z2V2eW55b3E2Z2V2eW55b3E2Z2V2eW55b3E2Z2V2/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" height="auto" />
   <h1>¡Hola, soy Nahuel Castro! 👋</h1>
-  <h3>Programador Web | 🇦🇷 Argentina</h3>
+  <h3>Tecnico en Programación | 🇦🇷 Argentina</h3>
   
   <a href="https://github.com/BakaNahu">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -18,7 +18,7 @@
     <td width="60%" valign="top">
       <h2>⚡ Sobre mí</h2>
       <ul>
-        <li>🎓 <strong>Estudios:</strong> Cursando Tecnicatura Universitaria en Programación (CUDI-UTN Avellaneda).</li>
+        <li>🎓 <strong>Estudios:</strong> Egresado Tecnicatura Universitaria en Programación (CUDI-UTN Avellaneda). Actualmente cursando Ingenieria en Computación (CUDI-UNTREF). </li>
         <li>💻 <strong>Trayectoria:</strong> Aprendiendo y codeando desde 2019.</li>
         <li>🎯 <strong>Objetivo:</strong> Convertirme en un experto en el mundo IT.</li>
         <li>🕷️ <strong>Dato random:</strong> Fanático total de <strong>Spider-Man</strong>.</li>
