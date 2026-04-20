@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6eW55b3E2Z2V2eW55b3E2Z2V2eW55b3E2Z2V2eW55b3E2Z2V2/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" height="auto" />
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6eW55b3E2Z2V2eW55b3E2Z2V2eW55b3E2Z2V2eW55b3E2Z2V2/3o7TKSjRrfIPjeiVyM/giphy.gif](https://i.pinimg.com/originals/cb/8a/d7/cb8ad766e33ec13d5f60872e547a6b29.gif)" width="100%" height="auto" />
   <h1>¡Hola, soy Nahuel Castro! 👋</h1>
   <h3>Tecnico en Programación | 🇦🇷 Argentina</h3>
   
