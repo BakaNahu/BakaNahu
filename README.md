@@ -34,7 +34,7 @@
 <h2 align="center">🛠️ Tecnologías y Herramientas</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,php,c,cpp,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,php,c,cpp,cs&theme=dark,java" />
 </div>
 
 <br />
@@ -46,4 +46,15 @@
   <!-- POKEMON_TEAM_START -->
 <table align="center"><tr><td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/241.png" alt="Miltank" width="70" /><br><sub><b>Miltank</b></sub></td><td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/353.png" alt="Shuppet" width="70" /><br><sub><b>Shuppet</b></sub></td><td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/6.png" alt="Charizard" width="70" /><br><sub><b>Charizard</b></sub></td><td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/738.png" alt="Vikavolt" width="70" /><br><sub><b>Vikavolt</b></sub></td><td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/749.png" alt="Mudbray" width="70" /><br><sub><b>Mudbray</b></sub></td><td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/838.png" alt="Carkol" width="70" /><br><sub><b>Carkol</b></sub></td></tr></table>
 <!-- POKEMON_TEAM_END -->
+</div>
+
+<br />
+
+<h2 align="center">👾 Mi Equipo Digimon de Hoy</h2>
+<p align="center">Generado automáticamente cada día a la medianoche</p>
+
+<div align="center">
+<!-- DIGIMON_TEAM_START -->
+
+<!-- DIGIMON_TEAM_END -->
 </div>
