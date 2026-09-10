@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Rook_Chessmon_(Black).png" width="90" alt="Rook Chessmon (Black)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Rook Chessmon (Black)</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Puppet</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Chimairamon.png" width="90" alt="Chimairamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Chimairamon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Composite</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Thunderbirmon.png" width="90" alt="Thunderbirmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Thunderbirmon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Giant Bird</sub><br>
       <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Betamon.png" width="90" alt="Betamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Betamon</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Amphibian</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
+      <img src="https://digi-api.com/images/digimon/w/Birdramon.png" width="90" alt="Birdramon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Birdramon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Giant Bird</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Unimon.png" width="90" alt="Unimon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Unimon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Mythical Beast</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
     </td>
   </tr>
 </table>
