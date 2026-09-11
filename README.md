@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Thunderbirmon.png" width="90" alt="Thunderbirmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Thunderbirmon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Giant Bird</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Birdramon.png" width="90" alt="Birdramon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Birdramon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Giant Bird</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Unimon.png" width="90" alt="Unimon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Unimon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Mythical Beast</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Omegamon_Zwart.png" width="90" alt="Omegamon Zwart"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Omegamon Zwart</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Holy Knight</sub><br>
       <sub><b>Atributo:</b> Vaccine</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Duskmon.png" width="90" alt="Duskmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Duskmon</h3>
+      <sub><b>Nivel:</b> Hybrid</sub><br>
+      <sub><b>Tipo:</b> Demon Man</sub><br>
+      <sub><b>Atributo:</b> Variable</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Minotaurmon_Adult.png" width="90" alt="Minotaurmon Adult"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Minotaurmon Adult</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Beast Man</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
     </td>
   </tr>
 </table>
