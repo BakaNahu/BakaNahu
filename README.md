@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Omegamon_Zwart.png" width="90" alt="Omegamon Zwart"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Omegamon Zwart</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Holy Knight</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Duskmon.png" width="90" alt="Duskmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Duskmon</h3>
-      <sub><b>Nivel:</b> Hybrid</sub><br>
-      <sub><b>Tipo:</b> Demon Man</sub><br>
-      <sub><b>Atributo:</b> Variable</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Minotaurmon_Adult.png" width="90" alt="Minotaurmon Adult"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Minotaurmon Adult</h3>
+      <img src="https://digi-api.com/images/digimon/w/Damemon.png" width="90" alt="Damemon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Damemon</h3>
       <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Beast Man</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
+      <sub><b>Tipo:</b> Mutation</sub><br>
+      <sub><b>Atributo:</b> Free</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/V-mon.png" width="90" alt="V-mon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">V-mon</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Small Dragon</sub><br>
+      <sub><b>Atributo:</b> Free</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Monochromon_(X-Antibody).png" width="90" alt="Monochromon (X-Antibody)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Monochromon (X-Antibody)</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Ankylosaur</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
   </tr>
 </table>
