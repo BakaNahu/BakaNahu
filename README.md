@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Ganimon_(X-Antibody).png" width="90" alt="Ganimon (X-Antibody)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Ganimon (X-Antibody)</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Crustacean</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Triceramon.png" width="90" alt="Triceramon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Triceramon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Ceratopsian</sub><br>
       <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Marin_Devimon.png" width="90" alt="Marin Devimon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Marin Devimon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Aquatic Beast Man</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
+      <img src="https://digi-api.com/images/digimon/w/Diablomon.png" width="90" alt="Diablomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Diablomon</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Species Unknown</sub><br>
+      <sub><b>Atributo:</b> Unknown</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Kangarumon.png" width="90" alt="Kangarumon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Kangarumon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Mammal</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
+      <img src="https://digi-api.com/images/digimon/w/Ohakadamon.png" width="90" alt="Ohakadamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Ohakadamon</h3>
+      <sub><b>Nivel:</b> ???</sub><br>
+      <sub><b>Tipo:</b> ???</sub><br>
+      <sub><b>Atributo:</b> ???</sub>
     </td>
   </tr>
 </table>
