@@ -58,23 +58,23 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Kuzuhamon.png" width="90" alt="Kuzuhamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Kuzuhamon</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> God Man</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Battle_Armament_Trailmon.png" width="90" alt="Battle Armament Trailmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Battle Armament Trailmon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Machine</sub><br>
       <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Mistymon.png" width="90" alt="Mistymon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Mistymon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Magic Warrior</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
+      <img src="https://digi-api.com/images/digimon/w/Monitamon.png" width="90" alt="Monitamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Monitamon</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Braun</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Karatenmon.png" width="90" alt="Karatenmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Karatenmon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Boogiemon.png" width="90" alt="Boogiemon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Boogiemon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
       <sub><b>Tipo:</b> Demon Man</sub><br>
       <sub><b>Atributo:</b> Virus</sub>
     </td>
