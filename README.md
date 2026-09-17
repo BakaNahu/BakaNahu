@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Battle_Armament_Trailmon.png" width="90" alt="Battle Armament Trailmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Battle Armament Trailmon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Yanmamon.png" width="90" alt="Yanmamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Yanmamon</h3>
       <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Machine</sub><br>
+      <sub><b>Tipo:</b> Insect</sub><br>
       <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Monitamon.png" width="90" alt="Monitamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Monitamon</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Braun</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Boogiemon.png" width="90" alt="Boogiemon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Boogiemon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Demon Man</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Black_War_Greymon_(X-Antibody).png" width="90" alt="Black War Greymon (X-Antibody)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Black War Greymon (X-Antibody)</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Dragon Man</sub><br>
       <sub><b>Atributo:</b> Virus</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Butenmon.png" width="90" alt="Butenmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Butenmon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> God Man</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
     </td>
   </tr>
 </table>
