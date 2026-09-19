@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Ponchomon.png" width="90" alt="Ponchomon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Ponchomon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Ghost</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Bastemon.png" width="90" alt="Bastemon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Bastemon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Beast Man</sub><br>
       <sub><b>Atributo:</b> Virus</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Musyamon.png" width="90" alt="Musyamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Musyamon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Pucchiemon_(Green).png" width="90" alt="Pucchiemon (Green)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Pucchiemon (Green)</h3>
       <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Demon Man</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
+      <sub><b>Tipo:</b> Fairy</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Kudamon_(2006_Anime_Version).png" width="90" alt="Kudamon (2006 Anime Version)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Kudamon (2006 Anime Version)</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Holy Beast</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
+      <img src="https://digi-api.com/images/digimon/w/Gaioumon.png" width="90" alt="Gaioumon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Gaioumon</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Dragon Man</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
     </td>
   </tr>
 </table>
