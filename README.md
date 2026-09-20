@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Bastemon.png" width="90" alt="Bastemon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Bastemon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Beast Man</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Pucchiemon_(Green).png" width="90" alt="Pucchiemon (Green)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Pucchiemon (Green)</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Fairy</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Gaioumon.png" width="90" alt="Gaioumon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Gaioumon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Arkadimon_Super_Ultimate.png" width="90" alt="Arkadimon Super Ultimate"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Arkadimon Super Ultimate</h3>
       <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Dragon Man</sub><br>
+      <sub><b>Tipo:</b> Bewitching Beast</sub><br>
       <sub><b>Atributo:</b> Virus</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Archnemon.png" width="90" alt="Archnemon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Archnemon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Demon Beast</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Duftmon_(X-Antibody).png" width="90" alt="Duftmon (X-Antibody)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Duftmon (X-Antibody)</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Holy Knight</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
   </tr>
 </table>
