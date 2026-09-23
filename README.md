@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Ketomon.png" width="90" alt="Ketomon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Ketomon</h3>
-      <sub><b>Nivel:</b> Baby I</sub><br>
-      <sub><b>Tipo:</b> Slime</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Tunomon.png" width="90" alt="Tunomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Tunomon</h3>
+      <sub><b>Nivel:</b> Baby II</sub><br>
+      <sub><b>Tipo:</b> Lesser</sub><br>
       <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Holy_Angemon(Priest_Mode).png" width="90" alt="Holy Angemon(Priest Mode)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Holy Angemon(Priest Mode)</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Archangel</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
+      <img src="https://digi-api.com/images/digimon/w/Death-X-DORUgoramon.png" width="90" alt="Death-X-DORUgoramon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Death-X-DORUgoramon</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Undead</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Yatagaramon_(2006_Anime_Version).png" width="90" alt="Yatagaramon (2006 Anime Version)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Yatagaramon (2006 Anime Version)</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Bewitching Bird</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
+      <img src="https://digi-api.com/images/digimon/w/Dodomon.png" width="90" alt="Dodomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Dodomon</h3>
+      <sub><b>Nivel:</b> Baby I</sub><br>
+      <sub><b>Tipo:</b> Slime</sub><br>
+      <sub><b>Atributo:</b> Free</sub>
     </td>
   </tr>
 </table>
