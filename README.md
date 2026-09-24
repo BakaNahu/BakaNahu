@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Tunomon.png" width="90" alt="Tunomon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Tunomon</h3>
-      <sub><b>Nivel:</b> Baby II</sub><br>
-      <sub><b>Tipo:</b> Lesser</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Death-X-DORUgoramon.png" width="90" alt="Death-X-DORUgoramon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Death-X-DORUgoramon</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Undead</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Chikurimon.png" width="90" alt="Chikurimon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Chikurimon</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Mine</sub><br>
       <sub><b>Atributo:</b> Virus</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Dodomon.png" width="90" alt="Dodomon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Dodomon</h3>
-      <sub><b>Nivel:</b> Baby I</sub><br>
-      <sub><b>Tipo:</b> Slime</sub><br>
-      <sub><b>Atributo:</b> Free</sub>
+      <img src="https://digi-api.com/images/digimon/w/Cardmon_C2.png" width="90" alt="Cardmon C2"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Cardmon C2</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Card</sub><br>
+      <sub><b>Atributo:</b> ???</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Guilmon_(X-Antibody).png" width="90" alt="Guilmon (X-Antibody)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Guilmon (X-Antibody)</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Demon Dragon</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
     </td>
   </tr>
 </table>
