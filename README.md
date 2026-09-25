@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Chikurimon.png" width="90" alt="Chikurimon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Chikurimon</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Mine</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Vamdemon.png" width="90" alt="Vamdemon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Vamdemon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Undead</sub><br>
       <sub><b>Atributo:</b> Virus</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Cardmon_C2.png" width="90" alt="Cardmon C2"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Cardmon C2</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Card</sub><br>
-      <sub><b>Atributo:</b> ???</sub>
+      <img src="https://digi-api.com/images/digimon/w/Sepikmon.png" width="90" alt="Sepikmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Sepikmon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Demon Man</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Guilmon_(X-Antibody).png" width="90" alt="Guilmon (X-Antibody)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Guilmon (X-Antibody)</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Demon Dragon</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
+      <img src="https://digi-api.com/images/digimon/w/Torikara_Ballmon.png" width="90" alt="Torikara Ballmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Torikara Ballmon</h3>
+      <sub><b>Nivel:</b> Baby I</sub><br>
+      <sub><b>Tipo:</b> Food</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
   </tr>
 </table>
