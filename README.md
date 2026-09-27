@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Slayerdramon.png" width="90" alt="Slayerdramon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Slayerdramon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Omegamon_(X-Antibody).png" width="90" alt="Omegamon (X-Antibody)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Omegamon (X-Antibody)</h3>
       <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Dragon Man</sub><br>
+      <sub><b>Tipo:</b> Holy Knight</sub><br>
       <sub><b>Atributo:</b> Vaccine</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Breakdramon.png" width="90" alt="Breakdramon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Breakdramon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Ancient_Volcamon.png" width="90" alt="Ancient Volcamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Ancient Volcamon</h3>
       <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Machine Dragon</sub><br>
+      <sub><b>Tipo:</b> Ancient Mineral</sub><br>
       <sub><b>Atributo:</b> Virus</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Sephirothmon.png" width="90" alt="Sephirothmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Sephirothmon</h3>
-      <sub><b>Nivel:</b> Hybrid</sub><br>
-      <sub><b>Tipo:</b> Mutation</sub><br>
-      <sub><b>Atributo:</b> Variable</sub>
+      <img src="https://digi-api.com/images/digimon/w/Centalmon.png" width="90" alt="Centalmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Centalmon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Beast Man</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
   </tr>
 </table>
