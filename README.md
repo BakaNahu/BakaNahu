@@ -58,24 +58,24 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Omegamon_(X-Antibody).png" width="90" alt="Omegamon (X-Antibody)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Omegamon (X-Antibody)</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Holy Knight</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Ancient_Volcamon.png" width="90" alt="Ancient Volcamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Ancient Volcamon</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Ancient Mineral</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Black_Growmon.png" width="90" alt="Black Growmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Black Growmon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Demon Dragon</sub><br>
       <sub><b>Atributo:</b> Virus</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Centalmon.png" width="90" alt="Centalmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Centalmon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Beast Man</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Fairimon.png" width="90" alt="Fairimon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Fairimon</h3>
+      <sub><b>Nivel:</b> Hybrid</sub><br>
+      <sub><b>Tipo:</b> Fairy</sub><br>
+      <sub><b>Atributo:</b> Variable</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Dot_Mirage_Gaogamon.png" width="90" alt="Dot Mirage Gaogamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Dot Mirage Gaogamon</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Beast Knight</sub><br>
       <sub><b>Atributo:</b> Data</sub>
     </td>
   </tr>
