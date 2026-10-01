@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Woodmon.png" width="90" alt="Woodmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Woodmon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Panimon.png" width="90" alt="Panimon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Panimon</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> ???</sub><br>
+      <sub><b>Atributo:</b> ???</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Alraumon.png" width="90" alt="Alraumon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Alraumon</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
       <sub><b>Tipo:</b> Plant</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Depthmon.png" width="90" alt="Depthmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Depthmon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Aquatic Beast Man</sub><br>
       <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Volcdramon.png" width="90" alt="Volcdramon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Volcdramon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Dragon</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
+      <img src="https://digi-api.com/images/digimon/w/Mush-Upped_Mach_Leomon.png" width="90" alt="Mush-Upped Mach Leomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Mush-Upped Mach Leomon</h3>
+      <sub><b>Nivel:</b> ???</sub><br>
+      <sub><b>Tipo:</b> ???</sub><br>
+      <sub><b>Atributo:</b> ???</sub>
     </td>
   </tr>
 </table>
