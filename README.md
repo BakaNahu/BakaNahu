@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Drimogemon.png" width="90" alt="Drimogemon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Drimogemon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Beast</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Justimon(Accel_Arm).png" width="90" alt="Justimon(Accel Arm)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Justimon(Accel Arm)</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Cyborg</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Peti_Meramon.png" width="90" alt="Peti Meramon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Peti Meramon</h3>
+      <sub><b>Nivel:</b> Baby II</sub><br>
+      <sub><b>Tipo:</b> Flame</sub><br>
       <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Orcamon.png" width="90" alt="Orcamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Orcamon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Aquatic Beast Man</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Dinobeemon.png" width="90" alt="Dinobeemon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Dinobeemon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Mutation</sub><br>
-      <sub><b>Atributo:</b> Free</sub>
+      <img src="https://digi-api.com/images/digimon/w/Piyomon.png" width="90" alt="Piyomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Piyomon</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Chick</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
     </td>
   </tr>
 </table>
