@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Justimon(Accel_Arm).png" width="90" alt="Justimon(Accel Arm)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Justimon(Accel Arm)</h3>
+      <img src="https://digi-api.com/images/digimon/w/Cherubimon_(Virtue).png" width="90" alt="Cherubimon (Virtue)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Cherubimon (Virtue)</h3>
       <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Cyborg</sub><br>
+      <sub><b>Tipo:</b> Cherub</sub><br>
       <sub><b>Atributo:</b> Vaccine</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Peti_Meramon.png" width="90" alt="Peti Meramon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Peti Meramon</h3>
-      <sub><b>Nivel:</b> Baby II</sub><br>
-      <sub><b>Tipo:</b> Flame</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Omegamon_Zwart.png" width="90" alt="Omegamon Zwart"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Omegamon Zwart</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Holy Knight</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Huanglongmon.png" width="90" alt="Huanglongmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Huanglongmon</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> God Beast</sub><br>
       <sub><b>Atributo:</b> Data</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Piyomon.png" width="90" alt="Piyomon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Piyomon</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Chick</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
     </td>
   </tr>
 </table>
