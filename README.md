@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Cherubimon_(Virtue).png" width="90" alt="Cherubimon (Virtue)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Cherubimon (Virtue)</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Cherub</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
+      <img src="https://digi-api.com/images/digimon/w/Tankdramon.png" width="90" alt="Tankdramon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Tankdramon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Machine</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Omegamon_Zwart.png" width="90" alt="Omegamon Zwart"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Omegamon Zwart</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Holy Knight</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
+      <img src="https://digi-api.com/images/digimon/w/Gokimon.png" width="90" alt="Gokimon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Gokimon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Insect</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Huanglongmon.png" width="90" alt="Huanglongmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Huanglongmon</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> God Beast</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
+      <img src="https://digi-api.com/images/digimon/w/Shoutmon_X3.png" width="90" alt="Shoutmon X3"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Shoutmon X3</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Composite</sub><br>
+      <sub><b>Atributo:</b> Unknown</sub>
     </td>
   </tr>
 </table>
