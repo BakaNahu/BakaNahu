@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Monimon.png" width="90" alt="Monimon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Monimon</h3>
-      <sub><b>Nivel:</b> Baby II</sub><br>
-      <sub><b>Tipo:</b> Braun</sub><br>
-      <sub><b>Atributo:</b> ???</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Pucchiemon.png" width="90" alt="Pucchiemon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Pucchiemon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Igamon.png" width="90" alt="Igamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Igamon</h3>
       <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Fairy</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
+      <sub><b>Tipo:</b> Mutation</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Guidemon.png" width="90" alt="Guidemon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Guidemon</h3>
-      <sub><b>Nivel:</b> ???</sub><br>
-      <sub><b>Tipo:</b> ???</sub><br>
-      <sub><b>Atributo:</b> ???</sub>
+      <img src="https://digi-api.com/images/digimon/w/Pinochimon.png" width="90" alt="Pinochimon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Pinochimon</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Puppet</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Trailmon_Angler.png" width="90" alt="Trailmon Angler"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Trailmon Angler</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Machine</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
   </tr>
 </table>
