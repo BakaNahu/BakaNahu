@@ -58,24 +58,24 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Igamon.png" width="90" alt="Igamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Igamon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Ponchomon.png" width="90" alt="Ponchomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Ponchomon</h3>
       <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Mutation</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Pinochimon.png" width="90" alt="Pinochimon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Pinochimon</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Puppet</sub><br>
+      <sub><b>Tipo:</b> Ghost</sub><br>
       <sub><b>Atributo:</b> Virus</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Trailmon_Angler.png" width="90" alt="Trailmon Angler"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Trailmon Angler</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Machine</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Bancho_Leomon(Burst_Mode).png" width="90" alt="Bancho Leomon(Burst Mode)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Bancho Leomon(Burst Mode)</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> ???</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Lalamon.png" width="90" alt="Lalamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Lalamon</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Plant</sub><br>
       <sub><b>Atributo:</b> Data</sub>
     </td>
   </tr>
