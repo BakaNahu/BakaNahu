@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Ponchomon.png" width="90" alt="Ponchomon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Ponchomon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Ghost</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Kaiser_Greymon.png" width="90" alt="Kaiser Greymon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Kaiser Greymon</h3>
+      <sub><b>Nivel:</b> Hybrid</sub><br>
+      <sub><b>Tipo:</b> Dragon Warrior</sub><br>
+      <sub><b>Atributo:</b> Free</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Nanomon.png" width="90" alt="Nanomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Nanomon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Machine</sub><br>
       <sub><b>Atributo:</b> Virus</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Bancho_Leomon(Burst_Mode).png" width="90" alt="Bancho Leomon(Burst Mode)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Bancho Leomon(Burst Mode)</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> ???</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Lalamon.png" width="90" alt="Lalamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Lalamon</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Plant</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
+      <img src="https://digi-api.com/images/digimon/w/Angewomon.png" width="90" alt="Angewomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Angewomon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Angel</sub><br>
+      <sub><b>Atributo:</b> Free</sub>
     </td>
   </tr>
 </table>
