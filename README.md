@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Kaiser_Greymon.png" width="90" alt="Kaiser Greymon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Kaiser Greymon</h3>
-      <sub><b>Nivel:</b> Hybrid</sub><br>
-      <sub><b>Tipo:</b> Dragon Warrior</sub><br>
-      <sub><b>Atributo:</b> Free</sub>
+      <img src="https://digi-api.com/images/digimon/w/Shine_Greymon(Burst_Mode).png" width="90" alt="Shine Greymon(Burst Mode)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Shine Greymon(Burst Mode)</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Light Dragon</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Nanomon.png" width="90" alt="Nanomon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Nanomon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Machine</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Gekomon.png" width="90" alt="Gekomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Gekomon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Amphibian</sub><br>
       <sub><b>Atributo:</b> Virus</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Angewomon.png" width="90" alt="Angewomon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Angewomon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Angel</sub><br>
-      <sub><b>Atributo:</b> Free</sub>
+      <img src="https://digi-api.com/images/digimon/w/Igamon.png" width="90" alt="Igamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Igamon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Mutation</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
   </tr>
 </table>
