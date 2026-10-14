@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Shine_Greymon(Burst_Mode).png" width="90" alt="Shine Greymon(Burst Mode)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Shine Greymon(Burst Mode)</h3>
+      <img src="https://digi-api.com/images/digimon/w/Blastmon.png" width="90" alt="Blastmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Blastmon</h3>
       <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Light Dragon</sub><br>
+      <sub><b>Tipo:</b> Mineral</sub><br>
       <sub><b>Atributo:</b> Vaccine</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Gekomon.png" width="90" alt="Gekomon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Gekomon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Icemon.png" width="90" alt="Icemon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Icemon</h3>
       <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Amphibian</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
+      <sub><b>Tipo:</b> Ice-Snow</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Igamon.png" width="90" alt="Igamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Igamon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Mutation</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
+      <img src="https://digi-api.com/images/digimon/w/Scud_Missimon.png" width="90" alt="Scud Missimon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Scud Missimon</h3>
+      <sub><b>Nivel:</b> ???</sub><br>
+      <sub><b>Tipo:</b> ???</sub><br>
+      <sub><b>Atributo:</b> ???</sub>
     </td>
   </tr>
 </table>
