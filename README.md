@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Blastmon.png" width="90" alt="Blastmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Blastmon</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Mineral</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Toy_Agumon.png" width="90" alt="Toy Agumon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Toy Agumon</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Puppet</sub><br>
       <sub><b>Atributo:</b> Vaccine</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Icemon.png" width="90" alt="Icemon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Icemon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Ice-Snow</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
+      <img src="https://digi-api.com/images/digimon/w/Lady_Devimon.png" width="90" alt="Lady Devimon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Lady Devimon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Fallen Angel</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Scud_Missimon.png" width="90" alt="Scud Missimon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Scud Missimon</h3>
-      <sub><b>Nivel:</b> ???</sub><br>
-      <sub><b>Tipo:</b> ???</sub><br>
-      <sub><b>Atributo:</b> ???</sub>
+      <img src="https://digi-api.com/images/digimon/w/Gorimon.png" width="90" alt="Gorimon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Gorimon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Beast Man</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
   </tr>
 </table>
