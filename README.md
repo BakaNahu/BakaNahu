@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Toy_Agumon.png" width="90" alt="Toy Agumon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Toy Agumon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Alraumon.png" width="90" alt="Alraumon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Alraumon</h3>
       <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Puppet</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Lady_Devimon.png" width="90" alt="Lady Devimon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Lady Devimon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Fallen Angel</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Gorimon.png" width="90" alt="Gorimon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Gorimon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Beast Man</sub><br>
+      <sub><b>Tipo:</b> Plant</sub><br>
       <sub><b>Atributo:</b> Data</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Chronomon_Destroy_Mode.png" width="90" alt="Chronomon Destroy Mode"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Chronomon Destroy Mode</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> ???</sub><br>
+      <sub><b>Atributo:</b> ???</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Ancient_Greymon.png" width="90" alt="Ancient Greymon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Ancient Greymon</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Ancient Dragon</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
     </td>
   </tr>
 </table>
