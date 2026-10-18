@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/DORUgoramon.png" width="90" alt="DORUgoramon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">DORUgoramon</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Beast Dragon</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
+      <img src="https://digi-api.com/images/digimon/w/Jyagamon.png" width="90" alt="Jyagamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Jyagamon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Plant</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Peti_Meramon.png" width="90" alt="Peti Meramon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Peti Meramon</h3>
-      <sub><b>Nivel:</b> Baby II</sub><br>
-      <sub><b>Tipo:</b> Flame</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
+      <img src="https://digi-api.com/images/digimon/w/Chaosmon(Valdur_Arm).png" width="90" alt="Chaosmon(Valdur Arm)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Chaosmon(Valdur Arm)</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Unique</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Holy_Digitamamon.png" width="90" alt="Holy Digitamamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Holy Digitamamon</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> ???</sub><br>
-      <sub><b>Atributo:</b> ???</sub>
+      <img src="https://digi-api.com/images/digimon/w/Flaremon.png" width="90" alt="Flaremon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Flaremon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Beast Man</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
     </td>
   </tr>
 </table>
