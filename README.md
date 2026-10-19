@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Jyagamon.png" width="90" alt="Jyagamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Jyagamon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Plant</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Chaosmon(Valdur_Arm).png" width="90" alt="Chaosmon(Valdur Arm)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Chaosmon(Valdur Arm)</h3>
+      <img src="https://digi-api.com/images/digimon/w/Grand_Locomon.png" width="90" alt="Grand Locomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Grand Locomon</h3>
       <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Unique</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
+      <sub><b>Tipo:</b> Machine</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Flaremon.png" width="90" alt="Flaremon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Flaremon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Vikemon.png" width="90" alt="Vikemon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Vikemon</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Beast Man</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Minotaurmon.png" width="90" alt="Minotaurmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Minotaurmon</h3>
       <sub><b>Nivel:</b> Perfect</sub><br>
       <sub><b>Tipo:</b> Beast Man</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
+      <sub><b>Atributo:</b> Virus</sub>
     </td>
   </tr>
 </table>
