@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Commandramon.png" width="90" alt="Commandramon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Commandramon</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Cyborg</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Kenkimon.png" width="90" alt="Kenkimon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Kenkimon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Trailmon_Battle_Form.png" width="90" alt="Trailmon Battle Form"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Trailmon Battle Form</h3>
+      <sub><b>Nivel:</b> ???</sub><br>
       <sub><b>Tipo:</b> Machine</sub><br>
       <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Vikemon.png" width="90" alt="Vikemon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Vikemon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Victory_Greymon.png" width="90" alt="Victory Greymon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Victory Greymon</h3>
       <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Beast Man</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
+      <sub><b>Tipo:</b> Dragon Man</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Fantomon.png" width="90" alt="Fantomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Fantomon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Ghost</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
     </td>
   </tr>
 </table>
