@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Bagramon.png" width="90" alt="Bagramon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Bagramon</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Demon Lord</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
+      <img src="https://digi-api.com/images/digimon/w/King_Hangyomon.png" width="90" alt="King Hangyomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">King Hangyomon</h3>
+      <sub><b>Nivel:</b> ???</sub><br>
+      <sub><b>Tipo:</b> ???</sub><br>
+      <sub><b>Atributo:</b> ???</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Otamamon.png" width="90" alt="Otamamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Otamamon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Monodramon.png" width="90" alt="Monodramon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Monodramon</h3>
       <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Amphibian</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
+      <sub><b>Tipo:</b> Small Dragon</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Garurumon.png" width="90" alt="Garurumon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Garurumon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Shurimon.png" width="90" alt="Shurimon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Shurimon</h3>
       <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Beast</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
+      <sub><b>Tipo:</b> Mutation</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
   </tr>
 </table>
