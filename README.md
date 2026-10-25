@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/King_Hangyomon.png" width="90" alt="King Hangyomon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">King Hangyomon</h3>
-      <sub><b>Nivel:</b> ???</sub><br>
-      <sub><b>Tipo:</b> ???</sub><br>
-      <sub><b>Atributo:</b> ???</sub>
+      <img src="https://digi-api.com/images/digimon/w/Fufumon.png" width="90" alt="Fufumon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Fufumon</h3>
+      <sub><b>Nivel:</b> Baby I</sub><br>
+      <sub><b>Tipo:</b> Slime</sub><br>
+      <sub><b>Atributo:</b> Free</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Monodramon.png" width="90" alt="Monodramon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Monodramon</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Small Dragon</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Shurimon.png" width="90" alt="Shurimon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Shurimon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Dokugumon.png" width="90" alt="Dokugumon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Dokugumon</h3>
       <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Mutation</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
+      <sub><b>Tipo:</b> Insect</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/V-dramon_(Black).png" width="90" alt="V-dramon (Black)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">V-dramon (Black)</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Mythical Dragon</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
     </td>
   </tr>
 </table>
