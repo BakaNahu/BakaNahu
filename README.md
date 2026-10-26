@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Fufumon.png" width="90" alt="Fufumon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Fufumon</h3>
-      <sub><b>Nivel:</b> Baby I</sub><br>
-      <sub><b>Tipo:</b> Slime</sub><br>
-      <sub><b>Atributo:</b> Free</sub>
+      <img src="https://digi-api.com/images/digimon/w/Shoutmon_X5.png" width="90" alt="Shoutmon X5"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Shoutmon X5</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Composite</sub><br>
+      <sub><b>Atributo:</b> Unknown</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Dokugumon.png" width="90" alt="Dokugumon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Dokugumon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Insect</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
+      <img src="https://digi-api.com/images/digimon/w/Metal_Fantomon.png" width="90" alt="Metal Fantomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Metal Fantomon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Cyborg</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/V-dramon_(Black).png" width="90" alt="V-dramon (Black)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">V-dramon (Black)</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Mythical Dragon</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
+      <img src="https://digi-api.com/images/digimon/w/Mach_Leomon.png" width="90" alt="Mach Leomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Mach Leomon</h3>
+      <sub><b>Nivel:</b> ???</sub><br>
+      <sub><b>Tipo:</b> ???</sub><br>
+      <sub><b>Atributo:</b> ???</sub>
     </td>
   </tr>
 </table>
