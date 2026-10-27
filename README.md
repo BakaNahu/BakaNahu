@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Shoutmon_X5.png" width="90" alt="Shoutmon X5"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Shoutmon X5</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Composite</sub><br>
-      <sub><b>Atributo:</b> Unknown</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Metal_Fantomon.png" width="90" alt="Metal Fantomon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Metal Fantomon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Cyborg</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Mach_Leomon.png" width="90" alt="Mach Leomon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Mach Leomon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Death_Meramon_(C'mon_Digimon_Version).png" width="90" alt="Death Meramon (C'mon Digimon Version)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Death Meramon (C'mon Digimon Version)</h3>
       <sub><b>Nivel:</b> ???</sub><br>
       <sub><b>Tipo:</b> ???</sub><br>
       <sub><b>Atributo:</b> ???</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Assaultmon.png" width="90" alt="Assaultmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Assaultmon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Cyborg</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Jungle_Mojyamon.png" width="90" alt="Jungle Mojyamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Jungle Mojyamon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Rare Beast</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
   </tr>
 </table>
