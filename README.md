@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/DORUmon.png" width="90" alt="DORUmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">DORUmon</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Beast</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Yatagaramon_(2006_Anime_Version).png" width="90" alt="Yatagaramon (2006 Anime Version)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Yatagaramon (2006 Anime Version)</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Bewitching Bird</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Mirage_Gaogamon(Burst_Mode).png" width="90" alt="Mirage Gaogamon(Burst Mode)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Mirage Gaogamon(Burst Mode)</h3>
+      <img src="https://digi-api.com/images/digimon/w/Murmukusmon.png" width="90" alt="Murmukusmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Murmukusmon</h3>
       <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Beast Knight</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
+      <sub><b>Tipo:</b> Demon Lord</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Gerbemon.png" width="90" alt="Gerbemon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Gerbemon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Mutation</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Pagumon.png" width="90" alt="Pagumon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Pagumon</h3>
+      <sub><b>Nivel:</b> Baby II</sub><br>
+      <sub><b>Tipo:</b> Lesser</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
     </td>
   </tr>
 </table>
