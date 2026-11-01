@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Gold_Numemon.png" width="90" alt="Gold Numemon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Gold Numemon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Mutation</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Kokabuterimon.png" width="90" alt="Kokabuterimon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Kokabuterimon</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Insect</sub><br>
       <sub><b>Atributo:</b> Virus</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Fujinmon.png" width="90" alt="Fujinmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Fujinmon</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Cyborg</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
+      <img src="https://digi-api.com/images/digimon/w/Shoutmon_X2_Plus_M.png" width="90" alt="Shoutmon X2 Plus M"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Shoutmon X2 Plus M</h3>
+      <sub><b>Nivel:</b> ???</sub><br>
+      <sub><b>Tipo:</b> Enhancement</sub><br>
+      <sub><b>Atributo:</b> ???</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Pipismon.png" width="90" alt="Pipismon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Pipismon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Mutation</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
+      <img src="https://digi-api.com/images/digimon/w/Bastemon.png" width="90" alt="Bastemon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Bastemon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Beast Man</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
     </td>
   </tr>
 </table>
