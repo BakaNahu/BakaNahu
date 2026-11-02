@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Kokabuterimon.png" width="90" alt="Kokabuterimon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Kokabuterimon</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Insect</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
+      <img src="https://digi-api.com/images/digimon/w/Tanemon.png" width="90" alt="Tanemon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Tanemon</h3>
+      <sub><b>Nivel:</b> Baby II</sub><br>
+      <sub><b>Tipo:</b> Bulb</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Shoutmon_X2_Plus_M.png" width="90" alt="Shoutmon X2 Plus M"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Shoutmon X2 Plus M</h3>
-      <sub><b>Nivel:</b> ???</sub><br>
-      <sub><b>Tipo:</b> Enhancement</sub><br>
-      <sub><b>Atributo:</b> ???</sub>
+      <img src="https://digi-api.com/images/digimon/w/Bullmon.png" width="90" alt="Bullmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Bullmon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Mammal</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Bastemon.png" width="90" alt="Bastemon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Bastemon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Beast Man</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
+      <img src="https://digi-api.com/images/digimon/w/Yukimi_Botamon.png" width="90" alt="Yukimi Botamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Yukimi Botamon</h3>
+      <sub><b>Nivel:</b> Baby I</sub><br>
+      <sub><b>Tipo:</b> Slime</sub><br>
+      <sub><b>Atributo:</b> Free</sub>
     </td>
   </tr>
 </table>
