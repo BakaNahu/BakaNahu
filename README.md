@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Ex-Tyranomon.png" width="90" alt="Ex-Tyranomon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Ex-Tyranomon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Puppet</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Arkadimon_Baby.png" width="90" alt="Arkadimon Baby"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Arkadimon Baby</h3>
+      <img src="https://digi-api.com/images/digimon/w/Chocomon.png" width="90" alt="Chocomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Chocomon</h3>
       <sub><b>Nivel:</b> Baby II</sub><br>
-      <sub><b>Tipo:</b> ???</sub><br>
+      <sub><b>Tipo:</b> Lesser</sub><br>
       <sub><b>Atributo:</b> Free</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Guardromon.png" width="90" alt="Guardromon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Guardromon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Machine</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Tiger_Vespamon.png" width="90" alt="Tiger Vespamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Tiger Vespamon</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Cyborg</sub><br>
       <sub><b>Atributo:</b> Virus</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Prince_Mamemon.png" width="90" alt="Prince Mamemon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Prince Mamemon</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Mutation</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
   </tr>
 </table>
