@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Waru_Seadramon.png" width="90" alt="Waru Seadramon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Waru Seadramon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Aquatic</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Sangloupmon.png" width="90" alt="Sangloupmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Sangloupmon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Demon Beast</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Grappu_Leomon.png" width="90" alt="Grappu Leomon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Grappu Leomon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Beast Man</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Dot_Kudamon.png" width="90" alt="Dot Kudamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Dot Kudamon</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Holy Beast</sub><br>
       <sub><b>Atributo:</b> Vaccine</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Tokomon_(X-Antibody).png" width="90" alt="Tokomon (X-Antibody)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Tokomon (X-Antibody)</h3>
+      <sub><b>Nivel:</b> Baby II</sub><br>
+      <sub><b>Tipo:</b> Lesser</sub><br>
+      <sub><b>Atributo:</b> Free</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Majiramon.png" width="90" alt="Majiramon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Majiramon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Holy Dragon</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
   </tr>
 </table>
