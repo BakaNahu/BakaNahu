@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Elecmon_(Violet).png" width="90" alt="Elecmon (Violet)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Elecmon (Violet)</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Mammal</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Platinum_Sukamon.png" width="90" alt="Platinum Sukamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Platinum Sukamon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Mutation</sub><br>
       <sub><b>Atributo:</b> Virus</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Vajramon.png" width="90" alt="Vajramon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Vajramon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Andromon.png" width="90" alt="Andromon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Andromon</h3>
       <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Holy Beast</sub><br>
+      <sub><b>Tipo:</b> Cyborg</sub><br>
       <sub><b>Atributo:</b> Vaccine</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Poromon.png" width="90" alt="Poromon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Poromon</h3>
-      <sub><b>Nivel:</b> Baby II</sub><br>
-      <sub><b>Tipo:</b> Small Bird</sub><br>
-      <sub><b>Atributo:</b> Free</sub>
+      <img src="https://digi-api.com/images/digimon/w/Ragnamon.png" width="90" alt="Ragnamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Ragnamon</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Unknown</sub><br>
+      <sub><b>Atributo:</b> Unknown</sub>
     </td>
   </tr>
 </table>
