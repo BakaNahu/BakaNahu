@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Platinum_Sukamon.png" width="90" alt="Platinum Sukamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Platinum Sukamon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Liamon.png" width="90" alt="Liamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Liamon</h3>
       <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Mutation</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Andromon.png" width="90" alt="Andromon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Andromon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Cyborg</sub><br>
+      <sub><b>Tipo:</b> Holy Beast</sub><br>
       <sub><b>Atributo:</b> Vaccine</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Ragnamon.png" width="90" alt="Ragnamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Ragnamon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Karatenmon.png" width="90" alt="Karatenmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Karatenmon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Demon Man</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Dukemon_(X-Antibody).png" width="90" alt="Dukemon (X-Antibody)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Dukemon (X-Antibody)</h3>
       <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Unknown</sub><br>
-      <sub><b>Atributo:</b> Unknown</sub>
+      <sub><b>Tipo:</b> Holy Knight</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
     </td>
   </tr>
 </table>
