@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Liamon.png" width="90" alt="Liamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Liamon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Holy Beast</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Karatenmon.png" width="90" alt="Karatenmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Karatenmon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Demon Man</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Leviamon.png" width="90" alt="Leviamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Leviamon</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Demon Lord</sub><br>
       <sub><b>Atributo:</b> Virus</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Dukemon_(X-Antibody).png" width="90" alt="Dukemon (X-Antibody)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Dukemon (X-Antibody)</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Holy Knight</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Burgamon.png" width="90" alt="Burgamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Burgamon</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Food</sub><br>
       <sub><b>Atributo:</b> Vaccine</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Pickmon.png" width="90" alt="Pickmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Pickmon</h3>
+      <sub><b>Nivel:</b> Baby II</sub><br>
+      <sub><b>Tipo:</b> Minor</sub><br>
+      <sub><b>Atributo:</b> ???</sub>
     </td>
   </tr>
 </table>
