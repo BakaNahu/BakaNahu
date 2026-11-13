@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Peckmon.png" width="90" alt="Peckmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Peckmon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Bird</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Piyomon.png" width="90" alt="Piyomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Piyomon</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Chick</sub><br>
       <sub><b>Atributo:</b> Vaccine</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Metal_Seadramon.png" width="90" alt="Metal Seadramon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Metal Seadramon</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Cyborg</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Growmon_(Orange).png" width="90" alt="Growmon (Orange)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Growmon (Orange)</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Demon Dragon</sub><br>
       <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Garudamon.png" width="90" alt="Garudamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Garudamon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Bird Man</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
+      <img src="https://digi-api.com/images/digimon/w/Plesiomon.png" width="90" alt="Plesiomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Plesiomon</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Plesiosaur</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
     </td>
   </tr>
 </table>
