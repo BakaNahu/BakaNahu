@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Piyomon.png" width="90" alt="Piyomon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Piyomon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Coronamon.png" width="90" alt="Coronamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Coronamon</h3>
       <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Chick</sub><br>
+      <sub><b>Tipo:</b> Beast</sub><br>
       <sub><b>Atributo:</b> Vaccine</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Growmon_(Orange).png" width="90" alt="Growmon (Orange)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Growmon (Orange)</h3>
+      <img src="https://digi-api.com/images/digimon/w/Devimon.png" width="90" alt="Devimon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Devimon</h3>
       <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Demon Dragon</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
+      <sub><b>Tipo:</b> Fallen Angel</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Plesiomon.png" width="90" alt="Plesiomon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Plesiomon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Black_War_Greymon_(X-Antibody).png" width="90" alt="Black War Greymon (X-Antibody)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Black War Greymon (X-Antibody)</h3>
       <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Plesiosaur</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
+      <sub><b>Tipo:</b> Dragon Man</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
     </td>
   </tr>
 </table>
