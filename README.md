@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Coronamon.png" width="90" alt="Coronamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Coronamon</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Beast</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Imperialdramon(Fighter_Mode).png" width="90" alt="Imperialdramon(Fighter Mode)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Imperialdramon(Fighter Mode)</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Ancient Dragon Man</sub><br>
       <sub><b>Atributo:</b> Vaccine</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Devimon.png" width="90" alt="Devimon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Devimon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Fallen Angel</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Gazimon_(X-Antibody).png" width="90" alt="Gazimon (X-Antibody)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Gazimon (X-Antibody)</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Mammal</sub><br>
       <sub><b>Atributo:</b> Virus</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Black_War_Greymon_(X-Antibody).png" width="90" alt="Black War Greymon (X-Antibody)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Black War Greymon (X-Antibody)</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Dragon Man</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
+      <img src="https://digi-api.com/images/digimon/w/Dot_Agumon.png" width="90" alt="Dot Agumon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Dot Agumon</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Dinosaur</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
     </td>
   </tr>
 </table>
