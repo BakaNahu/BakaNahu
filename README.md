@@ -58,24 +58,24 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Dot_Kudamon.png" width="90" alt="Dot Kudamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Dot Kudamon</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Sand_Yanmamon.png" width="90" alt="Sand Yanmamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Sand Yanmamon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Insect</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Tailmon.png" width="90" alt="Tailmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Tailmon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
       <sub><b>Tipo:</b> Holy Beast</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
+      <sub><b>Atributo:</b> Free</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Imperialdramon(Fighter_Mode_(Black)).png" width="90" alt="Imperialdramon(Fighter Mode (Black))"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Imperialdramon(Fighter Mode (Black))</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Ancient Dragon Man</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Ultimate_Brachimon.png" width="90" alt="Ultimate Brachimon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Ultimate Brachimon</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Cyborg</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/DORUmon.png" width="90" alt="DORUmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">DORUmon</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Beast</sub><br>
       <sub><b>Atributo:</b> Data</sub>
     </td>
   </tr>
