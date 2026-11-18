@@ -58,24 +58,24 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Sand_Yanmamon.png" width="90" alt="Sand Yanmamon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Sand Yanmamon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Insect</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Tailmon.png" width="90" alt="Tailmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Tailmon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Holy Beast</sub><br>
-      <sub><b>Atributo:</b> Free</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/DORUmon.png" width="90" alt="DORUmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">DORUmon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Commandramon.png" width="90" alt="Commandramon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Commandramon</h3>
       <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Beast</sub><br>
+      <sub><b>Tipo:</b> Cyborg</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Dark_Superstarmon.png" width="90" alt="Dark Superstarmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Dark Superstarmon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Mutation</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Shoutmon_(Jet_Sparrow).png" width="90" alt="Shoutmon (Jet Sparrow)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Shoutmon (Jet Sparrow)</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Enhancement</sub><br>
       <sub><b>Atributo:</b> Data</sub>
     </td>
   </tr>
