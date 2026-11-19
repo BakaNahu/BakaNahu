@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Commandramon.png" width="90" alt="Commandramon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Commandramon</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Cannondramon.png" width="90" alt="Cannondramon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Cannondramon</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
       <sub><b>Tipo:</b> Cyborg</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Dark_Superstarmon.png" width="90" alt="Dark Superstarmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Dark Superstarmon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Mutation</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Shoutmon_(Jet_Sparrow).png" width="90" alt="Shoutmon (Jet Sparrow)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Shoutmon (Jet Sparrow)</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Enhancement</sub><br>
       <sub><b>Atributo:</b> Data</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Gigimon.png" width="90" alt="Gigimon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Gigimon</h3>
+      <sub><b>Nivel:</b> Baby II</sub><br>
+      <sub><b>Tipo:</b> Lesser</sub><br>
+      <sub><b>Atributo:</b> Free</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Ancient_Wisemon.png" width="90" alt="Ancient Wisemon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Ancient Wisemon</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Ancient Mutation</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
     </td>
   </tr>
 </table>
