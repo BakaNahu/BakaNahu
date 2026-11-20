@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Cannondramon.png" width="90" alt="Cannondramon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Cannondramon</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Cyborg</sub><br>
-      <sub><b>Atributo:</b> Data</sub>
+      <img src="https://digi-api.com/images/digimon/w/Submarimon.png" width="90" alt="Submarimon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Submarimon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Aquatic</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Gigimon.png" width="90" alt="Gigimon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Gigimon</h3>
-      <sub><b>Nivel:</b> Baby II</sub><br>
-      <sub><b>Tipo:</b> Lesser</sub><br>
-      <sub><b>Atributo:</b> Free</sub>
+      <img src="https://digi-api.com/images/digimon/w/Lynxmon.png" width="90" alt="Lynxmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Lynxmon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Beast</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Ancient_Wisemon.png" width="90" alt="Ancient Wisemon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Ancient Wisemon</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Ancient Mutation</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
+      <img src="https://digi-api.com/images/digimon/w/Rhinomon.png" width="90" alt="Rhinomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Rhinomon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Mammal</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
     </td>
   </tr>
 </table>
