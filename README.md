@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Chaos_Dukemon_Core.png" width="90" alt="Chaos Dukemon Core"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Chaos Dukemon Core</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Dark Knight</sub><br>
-      <sub><b>Atributo:</b> ???</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Ulforce_V-dramon_(X-Antibody).png" width="90" alt="Ulforce V-dramon (X-Antibody)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Ulforce V-dramon (X-Antibody)</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Holy Knight</sub><br>
-      <sub><b>Atributo:</b> Vaccine</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Ravmon(Burst_Mode).png" width="90" alt="Ravmon(Burst Mode)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Ravmon(Burst Mode)</h3>
+      <img src="https://digi-api.com/images/digimon/w/Justimon(Blitz_Arm).png" width="90" alt="Justimon(Blitz Arm)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Justimon(Blitz Arm)</h3>
       <sub><b>Nivel:</b> Ultimate</sub><br>
       <sub><b>Tipo:</b> Cyborg</sub><br>
       <sub><b>Atributo:</b> Vaccine</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Doumon.png" width="90" alt="Doumon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Doumon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Demon Man</sub><br>
+      <sub><b>Atributo:</b> Data</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Gigadramon.png" width="90" alt="Gigadramon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Gigadramon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Cyborg</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
     </td>
   </tr>
 </table>
