@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Citramon.png" width="90" alt="Citramon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Citramon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Cardmon_C1.png" width="90" alt="Cardmon C1"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Cardmon C1</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Card</sub><br>
+      <sub><b>Atributo:</b> ???</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Chibi_Kiwimon.png" width="90" alt="Chibi Kiwimon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Chibi Kiwimon</h3>
+      <sub><b>Nivel:</b> ???</sub><br>
       <sub><b>Tipo:</b> ???</sub><br>
       <sub><b>Atributo:</b> ???</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Betsumon.png" width="90" alt="Betsumon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Betsumon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Puppet</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Sunflowmon.png" width="90" alt="Sunflowmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Sunflowmon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Plant</sub><br>
       <sub><b>Atributo:</b> Data</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Nyaromon.png" width="90" alt="Nyaromon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Nyaromon</h3>
-      <sub><b>Nivel:</b> Baby II</sub><br>
-      <sub><b>Tipo:</b> Lesser</sub><br>
-      <sub><b>Atributo:</b> Free</sub>
     </td>
   </tr>
 </table>
