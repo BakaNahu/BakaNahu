@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Cardmon_C1.png" width="90" alt="Cardmon C1"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Cardmon C1</h3>
-      <sub><b>Nivel:</b> Child</sub><br>
-      <sub><b>Tipo:</b> Card</sub><br>
-      <sub><b>Atributo:</b> ???</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Chibi_Kiwimon.png" width="90" alt="Chibi Kiwimon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Chibi Kiwimon</h3>
-      <sub><b>Nivel:</b> ???</sub><br>
-      <sub><b>Tipo:</b> ???</sub><br>
-      <sub><b>Atributo:</b> ???</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Sunflowmon.png" width="90" alt="Sunflowmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Sunflowmon</h3>
+      <img src="https://digi-api.com/images/digimon/w/Peacockmon.png" width="90" alt="Peacockmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Peacockmon</h3>
       <sub><b>Nivel:</b> Adult</sub><br>
-      <sub><b>Tipo:</b> Plant</sub><br>
+      <sub><b>Tipo:</b> Machine</sub><br>
       <sub><b>Atributo:</b> Data</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Belphemon(Sleep_Mode).png" width="90" alt="Belphemon(Sleep Mode)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Belphemon(Sleep Mode)</h3>
+      <sub><b>Nivel:</b> Ultimate</sub><br>
+      <sub><b>Tipo:</b> Demon Lord</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Megalo_Growmon_(X-Antibody).png" width="90" alt="Megalo Growmon (X-Antibody)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Megalo Growmon (X-Antibody)</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Cyborg</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
     </td>
   </tr>
 </table>
