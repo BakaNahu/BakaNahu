@@ -58,24 +58,24 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Peacockmon.png" width="90" alt="Peacockmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Peacockmon</h3>
-      <sub><b>Nivel:</b> Adult</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Taomon_(Silver).png" width="90" alt="Taomon (Silver)"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Taomon (Silver)</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
+      <sub><b>Tipo:</b> Demon Man</sub><br>
+      <sub><b>Atributo:</b> Vaccine</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Locomon.png" width="90" alt="Locomon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Locomon</h3>
+      <sub><b>Nivel:</b> Perfect</sub><br>
       <sub><b>Tipo:</b> Machine</sub><br>
       <sub><b>Atributo:</b> Data</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Belphemon(Sleep_Mode).png" width="90" alt="Belphemon(Sleep Mode)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Belphemon(Sleep Mode)</h3>
+      <img src="https://digi-api.com/images/digimon/w/Pharaohmon.png" width="90" alt="Pharaohmon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Pharaohmon</h3>
       <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Demon Lord</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Megalo_Growmon_(X-Antibody).png" width="90" alt="Megalo Growmon (X-Antibody)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Megalo Growmon (X-Antibody)</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Cyborg</sub><br>
+      <sub><b>Tipo:</b> Demon Man</sub><br>
       <sub><b>Atributo:</b> Virus</sub>
     </td>
   </tr>
