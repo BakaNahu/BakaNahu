@@ -58,25 +58,25 @@
 <table align="center">
   <tr>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Taomon_(Silver).png" width="90" alt="Taomon (Silver)"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Taomon (Silver)</h3>
+      <img src="https://digi-api.com/images/digimon/w/Kuwagamon.png" width="90" alt="Kuwagamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Kuwagamon</h3>
+      <sub><b>Nivel:</b> Adult</sub><br>
+      <sub><b>Tipo:</b> Insect</sub><br>
+      <sub><b>Atributo:</b> Virus</sub>
+    </td>
+    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
+      <img src="https://digi-api.com/images/digimon/w/Vajramon.png" width="90" alt="Vajramon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Vajramon</h3>
       <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Demon Man</sub><br>
+      <sub><b>Tipo:</b> Holy Beast</sub><br>
       <sub><b>Atributo:</b> Vaccine</sub>
     </td>
     <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Locomon.png" width="90" alt="Locomon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Locomon</h3>
-      <sub><b>Nivel:</b> Perfect</sub><br>
-      <sub><b>Tipo:</b> Machine</sub><br>
+      <img src="https://digi-api.com/images/digimon/w/Lalamon.png" width="90" alt="Lalamon"><br>
+      <h3 style="color: #cc6200; margin: 8px 0;">Lalamon</h3>
+      <sub><b>Nivel:</b> Child</sub><br>
+      <sub><b>Tipo:</b> Plant</sub><br>
       <sub><b>Atributo:</b> Data</sub>
-    </td>
-    <td align="center" width="160" style="border: 2px solid #ff7b00; background-color: #fff4e6; border-radius: 10px; padding: 10px;">
-      <img src="https://digi-api.com/images/digimon/w/Pharaohmon.png" width="90" alt="Pharaohmon"><br>
-      <h3 style="color: #cc6200; margin: 8px 0;">Pharaohmon</h3>
-      <sub><b>Nivel:</b> Ultimate</sub><br>
-      <sub><b>Tipo:</b> Demon Man</sub><br>
-      <sub><b>Atributo:</b> Virus</sub>
     </td>
   </tr>
 </table>
